@@ -1,0 +1,24 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+h3{
+	margin-top: 20px;
+	 margin-bottom: 20px;
+}
+body{
+background: linear-gradient(109deg, rgba(58,61,180,1) 0%, rgba(29,252,253,1) 50%, rgba(252,69,218,1) 100%);
+
+}
